@@ -22,7 +22,7 @@ def main():
     ]
 
     # Quote to display
-    quote = "Religion is the antithesis of egalitarianism and enlightenment. Embrace secularism, rationality and reason."
+    quote = "Religion is the antithesis of egalitarianism and enlightenment. Embrace secularism, rationality, and reason."
     author = "- RavenTheBird"
 
     # Print the artwork in red, then quote in bold
